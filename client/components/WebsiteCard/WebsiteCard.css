@@ -1,0 +1,25 @@
+.media {
+  width:100%;
+}
+
+iframe {
+  min-height: 200px;
+}
+
+.description {
+  padding-top: 0px;
+}
+
+.chip {
+  margin: 2px;
+  /*background-color: rgba(255,255,255,0.2);
+  color: #eee;*/
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 8px 16px 8px;
+  align-items: center;
+  justify-content: center;
+}
